@@ -1,0 +1,22 @@
+body{
+  background: blueviolet;
+  justify-content: center;
+}
+.heading{
+  text-align: center;
+  font-size: 80px;
+}
+.timeContent{
+  background: black;
+  width:60vh;
+  height: 20vh;
+  text-align: center;
+  border-radius: 10%;
+  font-size: 40px;
+  
+}
+.hours,.date{
+  font-family: san-serif;
+  color:white;
+  padding-top: 30px;
+}
